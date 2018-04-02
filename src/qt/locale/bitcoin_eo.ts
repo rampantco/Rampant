@@ -235,7 +235,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>RMTE: antaŭaj sekur-kopioj de via monujo-dosiero estas forigindaj kiam vi havas nove kreitan ĉifritan monujo-dosieron. Pro sekureco, antaŭaj kopioj de la neĉifrita dosiero ne plu funkcios tuj kiam vi ekuzos la novan ĉifritan dosieron.</translation>
+        <translation>RCOE: antaŭaj sekur-kopioj de via monujo-dosiero estas forigindaj kiam vi havas nove kreitan ĉifritan monujo-dosieron. Pro sekureco, antaŭaj kopioj de la neĉifrita dosiero ne plu funkcios tuj kiam vi ekuzos la novan ĉifritan dosieron.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -1715,7 +1715,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 RMT</source>
+        <source>0.00 RCO</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1785,7 +1785,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 RMT</source>
+        <source>123.456 RCO</source>
         <translation type="unfinished"/>
     </message>
     <message>

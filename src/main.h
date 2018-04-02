@@ -24,7 +24,7 @@ class CValidationState;
 static const int64_t DARKSEND_COLLATERAL = (0.01*COIN);
 static const int64_t DARKSEND_POOL_MAX = (4999.99*COIN);
 
-static const int64_t STATIC_POS_REWARD = 40 * COIN; //Constant reward of 40 RMT
+static const int64_t STATIC_POS_REWARD = 40 * COIN; //Constant reward of 40 RCO
 static const int64_t TARGET_SPACING = 90; //90 sec
 
 

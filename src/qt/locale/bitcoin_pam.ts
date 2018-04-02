@@ -1715,7 +1715,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 RMT</source>
+        <source>0.00 RCO</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1785,7 +1785,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 RMT</source>
+        <source>123.456 RCO</source>
         <translation type="unfinished"/>
     </message>
     <message>

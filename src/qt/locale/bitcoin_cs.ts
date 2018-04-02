@@ -1731,8 +1731,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 RMT</source>
-        <translation>123.456 RMT {0.00 ?}</translation>
+        <source>0.00 RCO</source>
+        <translation>123.456 RCO {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1801,8 +1801,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 RMT</source>
-        <translation>123.456 RMT</translation>
+        <source>123.456 RCO</source>
+        <translation>123.456 RCO</translation>
     </message>
     <message>
         <location line="+31"/>

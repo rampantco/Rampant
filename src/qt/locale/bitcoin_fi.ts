@@ -233,7 +233,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI RMTISI&lt;/b&gt;!</translation>
+        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI RCOISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1736,8 +1736,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 RMT</source>
-        <translation>123.456 RMT {0.00 ?}</translation>
+        <source>0.00 RCO</source>
+        <translation>123.456 RCO {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1806,8 +1806,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 RMT</source>
-        <translation>123.456 RMT</translation>
+        <source>123.456 RCO</source>
+        <translation>123.456 RCO</translation>
     </message>
     <message>
         <location line="+31"/>

@@ -76,7 +76,7 @@ Dependency Build Instructions: Gentoo
 emerge -av1 --noreplace boost openssl sys-libs/db
 
 Take the following steps to build (no UPnP support):
- cd ${RMT_DIR}/src
+ cd ${RCO_DIR}/src
  make -f makefile.unix USE_UPNP=
  strip Rampantd
 

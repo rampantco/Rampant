@@ -2,7 +2,7 @@
 
 Coin Name : Rampant Coin
 
-Ticker : RMT
+Ticker : RCO
 
 Coin Type : POW+POS+MN
 
@@ -18,7 +18,7 @@ Minimum Stake Age : 6 Hour
 
 Coin Maturity : 90 Block
 
-Masternode Collateral : 5000 RMT
+Masternode Collateral : 5000 RCO
 
 RPC Port: 27317
 

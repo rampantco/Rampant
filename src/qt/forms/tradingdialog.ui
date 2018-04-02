@@ -704,12 +704,12 @@
             </font>
            </property>
            <property name="text">
-            <string>RMT Available:</string>
+            <string>RCO Available:</string>
            </property>
           </widget>
          </item>
          <item>
-          <widget class="QLabel" name="RMTAvailableLabel">
+          <widget class="QLabel" name="RCOAvailableLabel">
            <property name="palette">
             <palette>
              <active>
@@ -1140,7 +1140,7 @@
           </widget>
          </item>
          <item>
-          <widget class="QLabel" name="labelRMT">
+          <widget class="QLabel" name="labelRCO">
            <property name="font">
             <font>
              <weight>75</weight>
@@ -1148,7 +1148,7 @@
             </font>
            </property>
            <property name="text">
-            <string> RMT</string>
+            <string> RCO</string>
            </property>
           </widget>
          </item>
@@ -1186,7 +1186,7 @@
        <item row="4" column="4">
         <widget class="QLabel" name="label_4">
          <property name="text">
-          <string>RMT</string>
+          <string>RCO</string>
          </property>
         </widget>
        </item>
@@ -1203,7 +1203,7 @@
         </widget>
        </item>
        <item row="4" column="9">
-        <widget class="QLineEdit" name="UnitsInputRMT">
+        <widget class="QLineEdit" name="UnitsInputRCO">
          <property name="minimumSize">
           <size>
            <width>0</width>
@@ -1222,7 +1222,7 @@
        <item row="4" column="10">
         <widget class="QLabel" name="label_22">
          <property name="text">
-          <string>RMT</string>
+          <string>RCO</string>
          </property>
         </widget>
        </item>
@@ -2237,16 +2237,16 @@
         </layout>
        </item>
        <item row="7" column="3">
-        <widget class="QPushButton" name="BuyRMT">
+        <widget class="QPushButton" name="BuyRCO">
          <property name="text">
-          <string>Buy RMT</string>
+          <string>Buy RCO</string>
          </property>
         </widget>
        </item>
        <item row="7" column="9">
-        <widget class="QPushButton" name="SellRMTBTN">
+        <widget class="QPushButton" name="SellRCOBTN">
          <property name="text">
-          <string>Sell RMT</string>
+          <string>Sell RCO</string>
          </property>
         </widget>
        </item>
@@ -2313,14 +2313,14 @@
         </widget>
        </item>
        <item row="0" column="1" colspan="5">
-        <widget class="QLabel" name="RMTDemand">
+        <widget class="QLabel" name="RCODemand">
          <property name="font">
           <font>
            <pointsize>8</pointsize>
           </font>
          </property>
          <property name="text">
-          <string>Demand: 0.00000000 RMT</string>
+          <string>Demand: 0.00000000 RCO</string>
          </property>
          <property name="alignment">
           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -2328,9 +2328,9 @@
         </widget>
        </item>
        <item row="0" column="9" colspan="3">
-        <widget class="QLabel" name="RMTSupply">
+        <widget class="QLabel" name="RCOSupply">
          <property name="text">
-          <string>Supply: 0.00000000 RMT</string>
+          <string>Supply: 0.00000000 RCO</string>
          </property>
          <property name="alignment">
           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -2830,7 +2830,7 @@
             </font>
            </property>
            <property name="text">
-            <string>Amount in RMT:</string>
+            <string>Amount in RCO:</string>
            </property>
           </widget>
          </item>
@@ -3279,7 +3279,7 @@
             </font>
            </property>
            <property name="text">
-            <string>RMT</string>
+            <string>RCO</string>
            </property>
           </widget>
          </item>
@@ -3797,7 +3797,7 @@
           </font>
          </property>
          <property name="text">
-          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Instructions:&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;To use the cross sending feature you need to have &lt;/p&gt;&lt;p align=&quot;center&quot;&gt;RMT available to spend on Bittrex. If you don't have any &lt;/p&gt;&lt;p align=&quot;center&quot;&gt;you can find your deposit address on the &amp;quot;Balance&amp;quot; tab.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;1. Enter the amount you want to receive in Bitcoin.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;2. Enter the Bitcoin address you are sending to.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;3. Check that the Total with fee's is correct.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;4. Press send and watch the magic happen.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Notes.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Total w/ fees: N/A means you dont have enough RMT to sell !&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;All trades are done through Bittrex using your own balance and API keys.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Encrypt and backup your wallet when using this feature.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;If you don't have a password you bittrex account will be accessible 24/7&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Withdrawal fee of 0.002 and 0.25% taken by Bittrex.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Instructions:&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;To use the cross sending feature you need to have &lt;/p&gt;&lt;p align=&quot;center&quot;&gt;RCO available to spend on Bittrex. If you don't have any &lt;/p&gt;&lt;p align=&quot;center&quot;&gt;you can find your deposit address on the &amp;quot;Balance&amp;quot; tab.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;1. Enter the amount you want to receive in Bitcoin.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;2. Enter the Bitcoin address you are sending to.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;3. Check that the Total with fee's is correct.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;4. Press send and watch the magic happen.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Notes.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Total w/ fees: N/A means you dont have enough RCO to sell !&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;All trades are done through Bittrex using your own balance and API keys.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Encrypt and backup your wallet when using this feature.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;If you don't have a password you bittrex account will be accessible 24/7&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Withdrawal fee of 0.002 and 0.25% taken by Bittrex.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
          </property>
         </widget>
        </item>
@@ -3865,12 +3865,12 @@
             </font>
            </property>
            <property name="text">
-            <string>RMT Balance:</string>
+            <string>RCO Balance:</string>
            </property>
           </widget>
          </item>
          <item>
-          <widget class="QLabel" name="BittrexRMTLabel">
+          <widget class="QLabel" name="BittrexRCOLabel">
            <property name="palette">
             <palette>
              <active>
@@ -4314,7 +4314,7 @@
             </font>
            </property>
            <property name="text">
-            <string>RMT</string>
+            <string>RCO</string>
            </property>
           </widget>
          </item>
@@ -4917,12 +4917,12 @@
           </font>
          </property>
          <property name="text">
-          <string>RMT Balance:</string>
+          <string>RCO Balance:</string>
          </property>
         </widget>
        </item>
        <item row="0" column="3">
-        <widget class="QLabel" name="RMTBalanceLabel">
+        <widget class="QLabel" name="RCOBalanceLabel">
          <property name="font">
           <font>
            <pointsize>10</pointsize>
@@ -4988,12 +4988,12 @@
           </font>
          </property>
          <property name="text">
-          <string>RMT Available:</string>
+          <string>RCO Available:</string>
          </property>
         </widget>
        </item>
        <item row="1" column="3">
-        <widget class="QLabel" name="RMTAvailableLabel_2">
+        <widget class="QLabel" name="RCOAvailableLabel_2">
          <property name="font">
           <font>
            <pointsize>10</pointsize>
@@ -5046,12 +5046,12 @@
           </font>
          </property>
          <property name="text">
-          <string>RMT Pending:</string>
+          <string>RCO Pending:</string>
          </property>
         </widget>
        </item>
        <item row="2" column="3">
-        <widget class="QLabel" name="RMTPendingLabel">
+        <widget class="QLabel" name="RCOPendingLabel">
          <property name="font">
           <font>
            <pointsize>10</pointsize>
@@ -5102,7 +5102,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Generate RMT Coin Deposit Address</string>
+          <string>Generate RCO Coin Deposit Address</string>
          </property>
         </widget>
        </item>
@@ -5237,7 +5237,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Withdraw RMT:</string>
+          <string>Withdraw RCO:</string>
          </property>
         </widget>
        </item>
@@ -5356,9 +5356,9 @@
       <zorder>label_13</zorder>
       <zorder>label_11</zorder>
       <zorder>BitcoinBalanceLabel</zorder>
-      <zorder>RMTBalanceLabel</zorder>
-      <zorder>RMTAvailableLabel_2</zorder>
-      <zorder>RMTPendingLabel</zorder>
+      <zorder>RCOBalanceLabel</zorder>
+      <zorder>RCOAvailableLabel_2</zorder>
+      <zorder>RCOPendingLabel</zorder>
       <zorder>BitcoinAvailableLabel</zorder>
       <zorder>BitcoinPendingLabel</zorder>
       <zorder>label_33</zorder>

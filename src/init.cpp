@@ -1070,8 +1070,8 @@ bool AppInit2(boost::thread_group& threadGroup)
        A note about convertability. Within Darksend pools, each denomination
        is convertable to another.
        For example:
-       1RMT+1000 == (.1RMT+100)*10
-       10RMT+10000 == (1RMT+1000)*10
+       1RCO+1000 == (.1RCO+100)*10
+       10RCO+10000 == (1RCO+1000)*10
     */
     darkSendDenominations.push_back( (1000        * COIN)+1000000 );
     darkSendDenominations.push_back( (100         * COIN)+100000 );
